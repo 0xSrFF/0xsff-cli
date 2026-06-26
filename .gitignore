@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Config and Secrets (NEVER upload this)
+config.yaml
+*.env
+
+# Output files
+output/
+*.html
+*.json
+*.md
+!README.md
+
+# OS files
+.DS_Store
+Thumbs.db
