@@ -4,25 +4,12 @@
 
 # --- COLORED BANNER ---
 BANNER = """
-[bold cyan]
 ███████╗ ███╗   ███╗ ██╗   ██╗ ██████╗ ███████╗
 ██╔════╝ ████╗ ████║ ██║   ██║ ██══██╗ ██╔════╝
 ███████╗ ██╔████╔██║ ██║   ██║ ██████╝ █████╗  
 ╚════██║ ██║╚██╔╝██║ ██║   ██║ ██╔═██╗ ██╔══╝  
 ███████║ ██║ ╚═╝ ██║ ╚██████╔╝ ██║ ██║ ██╗
 ╚══════╝ ╚═╝     ╚═╝  ╚═════╝  ╚═╝ ╚═╝ ╚═╝
-[/bold cyan]
-[bold white]        Exposure Intelligence CLI v1.0.0[/bold white]
-[bold white]                Author: Smurf / 0xsff[/bold white]
-[bold white]================================================================================[/bold white]
-[bold red][!] ⚠️ DISCLAIMER:[/bold red] For educational and authorized testing purposes only.
-    The author assumes no responsibility for misuse or damage caused by this tool.
-[bold white]--------------------------------------------------------------------------------[/bold white]
-[bold cyan][i] 👤 ABOUT:[/bold cyan] Built by Smurf / 0xsff
-    [bold green]Offensive Security[/bold green] • [bold yellow]Pentesting[/bold yellow] • [bold magenta]Exposure Analysis[/bold magenta]
-    Finding weaknesses before attackers do.
-[bold white]================================================================================[/bold white]
-"""
 
 
 **Exposure Intelligence CLI v1.0.0**  
