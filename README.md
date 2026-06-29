@@ -152,4 +152,5 @@ anyio - Async networking
 
 # Contact
 #### Author: Smurf / 0xsff
+#### email: 0xsmurf404@gmail.com
 #### Specialization: Offensive Security • Pentesting • Exposure Analysis
