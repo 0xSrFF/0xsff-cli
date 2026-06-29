@@ -5,14 +5,16 @@
 
 <div align="center">
 
-<pre>
-███████╗ ███╗   ███╗ ██╗   ██╗ ██████╗ ███████╗
-██╔════╝ ████╗ ████║ ██║   ██║ ██╔══██╗██╔════╝
-███████╗ ██╔████╔██║ ██║   ██║ ██████╔╝█████╗
-╚════██║ ██║╚██╔╝██║ ██║   ██║ ██╔══██╗██╔══╝
-███████║ ██║ ╚═╝ ██║ ╚██████╔╝ ██║  ██║██║
-╚══════╝ ╚═╝     ╚═╝  ╚═════╝  ╚═╝  ╚═╝╚═╝
-</pre>
+<p align="center">
+  <img src="Screenshot%202026-06-29%20170644.png" alt="0xsff Banner" width="900">
+</p>
+
+<h1 align="center">0xsff - Exposure Intelligence Framework</h1>
+
+<p align="center">
+  <strong>Exposure Intelligence CLI v2.0.0</strong><br>
+  <em>Finding weaknesses before attackers do.</em>
+</p>
 
 </div>
 
