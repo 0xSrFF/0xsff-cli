@@ -1,4 +1,4 @@
-# 0xsff - Exposure Intelligence Framework
+
 
 <div align="center">
 
