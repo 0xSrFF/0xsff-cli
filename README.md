@@ -32,13 +32,13 @@
 ---
 
 > ⚠️ **DISCLAIMER:** For educational and authorized testing purposes only.  
-> The author assumes no responsibility for misuse or damage caused by this tool.
+> The author assumes no responsibility for misuse or damage caused by this tool. ⚠️
 
 </div>
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 - [About](#-about)
 - [Features](#-features)
@@ -54,7 +54,7 @@
 
 ---
 
-## 🎯 About
+##  About
 
 **0xsff** is a professional-grade Exposure Intelligence Framework designed for offensive security professionals, penetration testers, and bug bounty hunters. Unlike traditional recon tools that simply dump data, 0xsff collects evidence, correlates findings, applies reasoning, and generates actionable intelligence—just like a senior security analyst.
 
@@ -66,28 +66,27 @@ The framework operates in **four intelligent phases**:
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Capabilities
-- **🎭 Interactive CLI** - Metasploit-style console with `smurf >` prompt
-- **🔄 Multi-Phase Workflow** - Structured 4-phase intelligence gathering
-- **🧠 AI-Powered Analysis** - Automated reasoning and narrative generation
-- **📊 Exposure Scoring** - Quantified risk scoring (0-100)
-- **🎯 Attack Paths** - Visual attack chain mapping
-- **📈 Asset Inventory** - Comprehensive asset tracking
-- **⏱️ Time-Travel Diff** - Compare scans over time
-- **🔍 Deep Asset Dive** - Investigate individual assets
+- ** Multi-Phase Workflow** - Structured 4-phase intelligence gathering
+- ** AI-Powered Analysis** - Automated reasoning and narrative generation
+- ** Exposure Scoring** - Quantified risk scoring (0-100)
+- ** Attack Paths** - Visual attack chain mapping
+- ** Asset Inventory** - Comprehensive asset tracking
+- ** Time-Travel Diff** - Compare scans over time
+- ** Deep Asset Dive** - Investigate individual assets
 
 ### Intelligence Modules
-- ✅ DNS Records & Subdomain Enumeration
-- ✅ Certificate Transparency Logs (Certspotter)
-- ✅ HTTP/HTTPS Service Detection
-- ✅ Historical Intelligence (Wayback Machine)
-- ✅ Email Security Analysis (MX, SPF, DMARC)
-- ✅ Cloud Storage Detection (AWS S3, Azure Blob)
-- ✅ GitHub Secrets & Leak Detection
-- ✅ Subdomain Takeover Detection
-- ✅ Technology Fingerprinting
+- ✓ DNS Records & Subdomain Enumeration
+- ✓ Certificate Transparency Logs (Certspotter)
+- ✓ HTTP/HTTPS Service Detection
+- ✓ Historical Intelligence (Wayback Machine)
+- ✓ Email Security Analysis (MX, SPF, DMARC)
+- ✓ Cloud Storage Detection (AWS S3, Azure Blob)
+- ✓ GitHub Secrets & Leak Detection
+- ✓ Subdomain Takeover Detection
+- ✓ Technology Fingerprinting
 
 ### Output Features
 - **Evidence vs Findings** - Clear separation of raw data and intelligence
@@ -99,7 +98,7 @@ The framework operates in **four intelligent phases**:
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.11 or higher
@@ -150,3 +149,7 @@ httpx - Async HTTP client
 pydantic - Data validation
 dnspython - DNS queries
 anyio - Async networking
+
+# Contact
+#### Author: Smurf / 0xsff
+#### Specialization: Offensive Security • Pentesting • Exposure Analysis
