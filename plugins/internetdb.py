@@ -4,7 +4,7 @@ import socket
 
 def run(target: str, config: dict):
     findings = []
-    log(f"[*] 🌐 Querying InternetDB for {target}...")
+    log(f"[*]  Querying InternetDB for {target}...")
     
     # Resolve domain to IP
     try:

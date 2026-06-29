@@ -1,0 +1,2 @@
+[console_scripts]
+smurf = cli.app:app

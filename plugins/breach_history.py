@@ -3,7 +3,7 @@ from core.logger import log
 
 def run(target: str, config: dict):
     findings = []
-    log(f"[*] 🔎 Checking breach history for {target}...")
+    log(f"[*]  Checking breach history for {target}...")
     
     # Check Have I Been Pwned API (free, no key needed for domain search)
     url = f"https://haveibeenpwned.com/api/v3/breachedaccount/{target}"

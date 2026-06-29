@@ -29,7 +29,7 @@ def get_priority(risk, tags):
 
 def dispatch_scan(target: str, intel_mode: bool = False, report_mode: str = None):
     config = load_config()
-    log(f"[+] INTELLIGENCE ENGINE: {target}\n")
+    log(f"[+] TARGET: {target}\n")
 
     # 1. Run Core Modules
     dns = run_dns(target)

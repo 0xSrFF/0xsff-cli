@@ -4,7 +4,7 @@ from core.logger import log
 
 def run(target: str, config: dict):
     findings = []
-    log(f"[*] 🔍 Checking for subdomain takeover vulnerabilities...")
+    log(f"[*]  Checking for subdomain takeover vulnerabilities...")
     
     # Common CNAME patterns that indicate takeover risk
     takeover_indicators = {

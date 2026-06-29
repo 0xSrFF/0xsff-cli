@@ -4,7 +4,7 @@ from core.logger import log
 def run(target: str, config: dict):
     findings = []
     token = config.get("github_token", "")
-    log(f"[*] 🕵️ Smart Leak Hunt for {target}...")
+    log(f"[*] Smart Leak Hunt for {target}...")
 
     headers = {"Accept": "application/vnd.github.v3+json"}
     if token:
@@ -28,11 +28,11 @@ def run(target: str, config: dict):
                 data = resp.json()
                 for item in data.get('items', []):
                     html_url = item.get('html_url')
-                    
+
                     # Prevent duplicates
                     if any(f['asset'] == html_url for f in findings):
                         continue
-                        
+
                     findings.append({
                         "asset": html_url,
                         "type": "smart_leak",
